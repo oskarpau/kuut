@@ -1,2 +1,7 @@
 U bracket - https://gimsonrobotics.co.uk/products/heavy-duty-stainless-steel-actuator-bracket-10mm-pin?variant=45232725721364
 Eye plate - https://www.boatid.com/sea-dog/1-2-i-d-stainless-steel-oblong-eye-plate-mpn-088721.html?singleid=3824799246#product-details-description
+
+BOM
+1 x 5000mm, 100mm, 60mm pruss
+1 x eye plate
+1 x U bracket komplekt
