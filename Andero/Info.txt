@@ -12,8 +12,10 @@ https://puumarket.ee/en/product/pruss-kuivatatud-50x100x3000mm/
 https://kaup24.ee/et/kodutarbed/majapidamistarbed/pesukuivatusrestid/roostevabast-terasest-tross-konksudega?id=122484779&mid=139796845
 
 
-Vaja muuta
-prussi mudel mõõdud õigeks (peale muutust ka katuses olev ava sama suureks)
+TODO
+Change wooden beam parameters (after that change the roof wall holes to match the beam)
+Carabiner part design
+Steel cable part design
 
-Potensiaalsed probleemid
-tross jookseb U bracketilt maha
+Potential problems
+Cable runs off the U bracket
